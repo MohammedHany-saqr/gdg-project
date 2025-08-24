@@ -1,2 +1,2 @@
 # gdg-project
-graduation project for data google developer group(gdg) Data Science track
+graduation project for google developer group(gdg) Data Science track
