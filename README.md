@@ -1,4 +1,5 @@
 # Data Science Track - GDG CIC Graduation Project
+![Alt text]("C:\Users\HP\Documents\WhatsApp Image 2025-08-28 at 19.19.08_91545080.jpg")
 
 
 
@@ -35,11 +36,11 @@ Provide business insights and actionable recommendations.
 
 ├── models:               Trained machine learning models
 
-├── reports/             # EDA reports, model performance results
+├── reports:              EDA reports, model performance results
 
-├── requirements.txt     # Project dependencies
+├── requirements.txt:      Project dependencies
 
-└── README.md            # Project documentation
+└── README.md:             Project documentation
 
 
 # 🛠️ Tools & Technologies
