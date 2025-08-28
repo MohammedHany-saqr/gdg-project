@@ -1,5 +1,5 @@
 # Data Science Track - GDG CIC Graduation Project
-![Alt text](C:\Users\HP\Documents\WhatsApp Image 2025-08-28 at 19.19.08_91545080.jpg)
+![Alt text](https://github.com/MohammedHany-saqr/gdg-project/blob/main/WhatsApp%20Image%202025-08-28%20at%2019.19.08_91545080.jpg)
 
 
 
