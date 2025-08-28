@@ -28,12 +28,19 @@ Provide business insights and actionable recommendations.
 
 # 📂 Project Structure
 ├── data/                # Raw and processed datasets
+
 ├── notebooks/           # Jupyter notebooks for EDA and modeling
+
 ├── src/                 # Python scripts for preprocessing, training, evaluation
+
 ├── models/              # Trained machine learning models
+
 ├── reports/             # EDA reports, model performance results
+
 ├── requirements.txt     # Project dependencies
+
 └── README.md            # Project documentation
+
 
 # 🛠️ Tools & Technologies
 
@@ -124,7 +131,7 @@ Build an interactive dashboard for churn monitoring.
 Integrate with real-time customer data streams. 
   
 
-### Final Notes
+# Final Notes
 - The tuned XGBoost usually performs best on this dataset by ROC-AUC.
 - Always validate results with proper cross-validation and consider class imbalance techniques (e.g., stratified splits, class weights, or SMOTE) if needed.
 - Next steps: threshold tuning to balance precision/recall for the business objective.
