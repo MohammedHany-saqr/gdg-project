@@ -27,13 +27,13 @@ Build and evaluate machine learning models for churn prediction.
 Provide business insights and actionable recommendations.
 
 # 📂 Project Structure
-├── data/                # Raw and processed datasets
+├── data:                 Raw and processed datasets
 
-├── notebooks/           # Jupyter notebooks for EDA and modeling
+├── notebooks:            Jupyter notebooks for EDA and modeling
 
-├── src/                 # Python scripts for preprocessing, training, evaluation
+├── src:                  Python scripts for preprocessing, training, evaluation
 
-├── models/              # Trained machine learning models
+├── models:               Trained machine learning models
 
 ├── reports/             # EDA reports, model performance results
 
