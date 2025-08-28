@@ -51,7 +51,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, imbalanced
 
 Visualization: Matplotlib, Seaborn, Plotly
 
-Environment: Jupyter Notebook / VS Code
+Environment: Jupyter Notebook
 
 # 📊 Methodology
 
