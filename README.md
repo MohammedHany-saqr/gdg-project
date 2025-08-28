@@ -1,9 +1,9 @@
 # 📌 Customer Churn Prediction
 
-**Authors:** Mohamed Kasm • Mohamed Saqr • Zeyad  
+**Authors:** Mohamed Kasm • Mohamed Saqr • Ziad Abdallbasset
 **Created:** 2025-08-26 (UTC)
 
-**Goal:** Predict whether a telecom customer will churn (leave the service) based on their profile and usage.
+# **Goal:** Predict whether a telecom customer will churn (leave the service) based on their profile and usage.
 
 This notebook follows the full **Data Science Life Cycle**:
 1) Data source & collection  
