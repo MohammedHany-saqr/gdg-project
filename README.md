@@ -1,3 +1,8 @@
+# Data Science Track - GDG CIC Graduation Project
+# ![Uploading image.png…]()
+
+
+
 # 📌 Customer Churn Prediction
 
 **Authors:** Mohamed Kasm • Mohamed Saqr • Ziad Abdallbasset
@@ -57,7 +62,7 @@ df_raw = pd.read_csv(DATA_FILE)
 print(df_raw.shape)
 df_raw.head(3)
 
-```python
+
 ## 2) Data Exploration (EDA)
 
 We inspect data types, basic stats, target distribution, and potential issues (e.g., numeric fields stored as strings).
