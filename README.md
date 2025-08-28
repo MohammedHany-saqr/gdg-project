@@ -1,6 +1,7 @@
 # 📌 Customer Churn Prediction
 
 **Authors:** Mohamed Kasm • Mohamed Saqr • Ziad Abdallbasset
+
 **Created:** 2025-08-26 (UTC)
 
 # **Goal:** Predict whether a telecom customer will churn (leave the service) based on their profile and usage.
@@ -24,7 +25,7 @@ This notebook follows the full **Data Science Life Cycle**:
 - Or use the Kaggle API (requires that your Kaggle credentials are configured).
 
 # Installing necessary libraries and setting up the environment
-```python
+**\`\`\`python**
 !pip install pandas
 !pip install numpy
 !pip install matplotlib
