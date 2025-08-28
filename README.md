@@ -4,6 +4,9 @@
 
 **Created:** 2025-08-26 (UTC)
 
+**Dataset:** Telco Customer Churn (Kaggle)  
+**Source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 # **Goal:** Predict whether a telecom customer will churn (leave the service) based on their profile and usage.
 
 This notebook follows the full **Data Science Life Cycle**:
@@ -25,7 +28,7 @@ This notebook follows the full **Data Science Life Cycle**:
 - Or use the Kaggle API (requires that your Kaggle credentials are configured).
 
 # Installing necessary libraries and setting up the environment
-\`\`\`python
+```python
 !pip install pandas
 !pip install numpy
 !pip install matplotlib
@@ -44,8 +47,6 @@ PROJECT_SEED = 42
 DATA_FILE = "Telco-Customer-Churn.csv"  # expected filename
 ## 1) Data Source & Collection
 
-- **Dataset:** Telco Customer Churn (Kaggle)  
-- **Source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 We'll load the CSV file and take a quick look.
 
@@ -56,6 +57,7 @@ df_raw = pd.read_csv(DATA_FILE)
 print(df_raw.shape)
 df_raw.head(3)
 
+```python
 ## 2) Data Exploration (EDA)
 
 We inspect data types, basic stats, target distribution, and potential issues (e.g., numeric fields stored as strings).
