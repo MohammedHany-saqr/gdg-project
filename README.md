@@ -24,7 +24,7 @@ This notebook follows the full **Data Science Life Cycle**:
 - Or use the Kaggle API (requires that your Kaggle credentials are configured).
 
 # Installing necessary libraries and setting up the environment
-
+```python
 !pip install pandas
 !pip install numpy
 !pip install matplotlib
