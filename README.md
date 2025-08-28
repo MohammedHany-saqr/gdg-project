@@ -1,5 +1,5 @@
 # Data Science Track - GDG CIC Graduation Project
-![Alt text]("C:\Users\HP\Documents\WhatsApp Image 2025-08-28 at 19.19.08_91545080.jpg")
+![Alt text](C:\Users\HP\Documents\WhatsApp Image 2025-08-28 at 19.19.08_91545080.jpg)
 
 
 
