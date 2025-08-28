@@ -1,5 +1,4 @@
 # Data Science Track - GDG CIC Graduation Project
-# ![Uploading image.png…]()
 
 
 
